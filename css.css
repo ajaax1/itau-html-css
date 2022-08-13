@@ -185,6 +185,7 @@ nav p {
 }
 #navis{
     display:none;
+   
 }
 
 #navis a{
@@ -205,6 +206,7 @@ nav p {
     position: relative;
     top: 4.5rem;
     cursor: pointer;
+    
 }
 
 /* HEADER*/
